@@ -131,3 +131,7 @@ https://juejin.cn/post/7221858081485963324#heading-11
 ## 代码
 
 https://github.com/wczy-ao/web-rtsp-video
+
+
+## rtsp详解
+https://zhuanlan.zhihu.com/p/560959808
